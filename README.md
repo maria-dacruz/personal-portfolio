@@ -8,4 +8,4 @@ This repository contains the source code for my personal professional portfolio,
 * **CSS3:** Custom light-theme styling, responsive grid layouts, and modern UI elements.
 
 ## Live Version
-*The site is currently deployed on a netlify server. You can view the live version at: [Insert your actual website link here later]*
+*The site is currently deployed on a netlify server. You can view the live version at: https://mariadacruz.netlify.app/*
